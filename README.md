@@ -9,9 +9,6 @@
   <a href="mailto:rcvazquezantelo2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-rcvazquezantelo2006@gmail.com-0d6efd?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/rcvazquezantelo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rcvazquezantelo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://devlink.nygaccesorios.com/" target="_blank">
     <img src="https://img.shields.io/badge/Proyecto%20en%20producción-DevLink-1a4fff?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
